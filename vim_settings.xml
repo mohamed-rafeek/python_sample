@@ -1,6 +1,16 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="false" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
@@ -15,7 +25,60 @@
         <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1574000088138">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1574069519283">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Rafeek/Course Meterials/Python/Lynda.com - Python 3 Essential Training/Exercise Files/04 Syntax/syntax.py" timestamp="1574069555721">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+      </file>
+      <file name="$USER_HOME$/Rafeek/Course Meterials/Python/Lynda.com - Python 3 Essential Training/Exercise Files/05 Variables/variables.py" timestamp="1574081378500">
+        <mark key="[" line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/Rafeek/Course Meterials/Python/Lynda.com - Python 3 Essential Training/Exercise Files/02 Quick Start/whileloop.py" timestamp="1574021675796">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Rafeek/Course Meterials/Python/Lynda.com - Python 3 Essential Training/Exercise Files/02 Quick Start/exceptions.py" timestamp="1574057582648">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="9" column="8" filename="$USER_HOME$/Rafeek/Course Meterials/Python/Lynda.com - Python 3 Essential Training/Exercise Files/04 Syntax/syntax.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Rafeek/Course Meterials/Python/Lynda.com - Python 3 Essential Training/Exercise Files/04 Syntax/syntax.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICBwcmludCh4KQogIHByaW50KHR5cGUoeCkpCiAgcHJpbnQoaWQoeCkp</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcmludCh4KQogIHByaW50KHR5cGUoeCkpCiAgcHJpbnQoaWQoeCkp</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
